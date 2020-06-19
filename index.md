@@ -2,8 +2,8 @@
 ### The home page to [all repositories](https://github.com/SFM61319?tab=repositories "SFM61319's Repositories") created by [SFM61319](https://github.com/SFM61319 "SFM61319"), powered by [GitHub](https://pages.github.com/ "GitHub Pages").
   
 ## Repository sites created by SFM61319
- - [DyePy - A colorful module for Python](https://github.com/SFM61319/DyePy "DyePy")
- - [Fluent UI - A CSS and JavaScript framework to implement Microsoft's Fluent Design System on the web](https://github.com/SFM61319/fluent-ui "Fluent UI")
+ - [DyePy - A colorful module for Python](https://sfm61319.github.io/DyePy "DyePy")
+ - [Fluent UI - A CSS and JavaScript framework to implement Microsoft's Fluent Design System on the web](https://sfm61319.github.io/fluent-ui "Fluent UI")
   
 ## Others
  - Feedback? Would like to see a new feature?
