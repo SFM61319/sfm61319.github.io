@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SFM61319/sfm61319.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SFM61319/sfm61319.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [sfm61319.github.io](https://github.com/SFM61319/sfm61319.github.io "Open Repository")
+### The home page to [all repositories](https://github.com/SFM61319?tab=repositories "SFM61319's Repositories") created by [SFM61319](https://github.com/SFM61319 "SFM61319"), powered by [GitHub](https://pages.github.com/ "GitHub Pages").
+  
+## Repository sites created by SFM61319
+ - [DyePy - A colorful module for Python](https://github.com/SFM61319/DyePy "DyePy")
+ - [Fluent UI - A CSS and JavaScript framework to implement Microsoft's Fluent Design System on the web](https://github.com/SFM61319/fluent-ui "Fluent UI")
+  
+## Others
+ - Feedback? Would like to see a new feature?
+   + [Write to the dev, SFM61319](mailto:svasssakavi@gmail.com "Mail")
+ - Help?
+   + [Open an issue](https://github.com/SFM61319/sfm61319.github.io/issues/new "Issue")
+ - Want to contribute?
+   1. [Fork this repository](https://github.com/SFM61319/sfm61319.github.io/fork "Fork")
+   2. Create your feature branch by entering `git checkout -b feature/fooBar` on your [Git Bash](https://git-scm.com/download/ "Git")
+   3. Commit your changes by entering `git commit -am "Add some foo bar, baz"`
+   4. Push to the branch by entering `git push origin feature/fooBar`
+   5. Create a new Pull Request (PR)
