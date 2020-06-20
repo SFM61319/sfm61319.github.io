@@ -3,7 +3,7 @@
   
 ## Repository sites created by SFM61319
  - [DyePy - A colorful module for Python](https://sfm61319.github.io/DyePy "DyePy")
- - [Fluent UI - A CSS and JavaScript framework to implement Microsoft's Fluent Design System on the web](https://sfm61319.github.io/fluent-ui "Fluent UI")
+ - [Fluent Web - A CSS and JavaScript framework to implement Microsoft's Fluent Design System on the web](https://sfm61319.github.io/fluent-ui "Fluent UI")
   
 ## Others
  - Feedback? Would like to see a new feature?
