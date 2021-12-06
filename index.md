@@ -21,7 +21,17 @@ And as of now, I can write vanilla HTML, CSS, and JS, or ReactJS/TS frontend web
   
 And finally coming to the favorites in the meta part, my favorite code editor is Visual Studio Code (although I use vim 8.2 - and I like vim too - on Arch Linux ARM on my Android phone, and compile and run code using compilers like GCC, G++, Mono C#, and interpreters like Node.js and Python 3 for Arch Linux ARM, due to "hardware insufficiencies"), and IDE is Visual Studio 2022 (it was Visual Studio 2019 until Visual Studio 2022 was released).  
   
-To sum it all up, I'm an enthusiastic and a curious learner and a programmer who absolutely *loves* programming. And a little known secret, I took up CSE not because of the pay or the job opportunities, but because I *love* programming. I want to work for Google and Microsoft one day, especially the Google search engine, Android OS, Material UI (now Material You), and the Google Assistant areas in Google, and Windows 11, [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/ "Windows UI"), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), and a few more areas in Microsoft.
+To sum it all up, I'm an enthusiastic and a curious learner and a programmer who absolutely *loves* programming. And a little known secret, I took up CSE not because of the pay or the job opportunities, but because I *love* programming. I want to work for Google and Microsoft one day, especially the Google search engine, Android OS, Material UI (now Material You), and the Google Assistant areas in Google, and Windows 11, [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/ "Windows UI"), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), and a few more areas in Microsoft.  
+  
+I wrote a few projects like I said above, some huge. And I'll be working on their much modern remakes soon. Projects like:
++ [DyePy](https://pypi.org/project/dyepy/ "DyePy - A colorful package") - A color library in Python
++ dsalgos [unpublished] - A Data Structures and Algorithms library in Python (will possibly be remade with Python 3.10 compatibility and features)
++ Spidey [unpublished] - A Discord bot written in discord.js v12 (will be remade in Node.js v17+, discord.js v13+)
++ color++ [deleted for remake] - An efficient color library in C++ (to be remade in newer C++ standards with optimizations and more and better features)
++ ColorSharp [deleted for remake] - An efficient color library in C# (to be remade efficiently in the latest stable C# and .NET versions)
++ dsalgos++ [deleted for remake] - An efficient Data Structures and Algorithms library in C++ (to be remade in newer C++ standards with optimizations and better interfaces and features, possibly with custom user structure and algorithm extensibility)
++ Material [deleted for remake] - A UWP app to play around with WinUI materials like [Acrylic](https://docs.microsoft.com/en-us/windows/apps/design/style/acrylic "Acrylic Brush") and Reveal (discontinued, main reason for proper Windows 11 compatible remake)
++ Ruqqus Windows [deleted] - A UWP app for Ruqqus (development discontinued and project deleted after discontinuation of Ruqqus due to moral issues on their site)
   
 Well, this (hopefully) explained about the programmer in me in less than 5 minutes.  
   
