@@ -24,8 +24,8 @@ And finally coming to the favorites in the meta part, my favorite code editor is
 To sum it all up, I'm an enthusiastic and a curious learner and a programmer who absolutely *loves* programming. And a little known secret, I took up CSE not because of the pay or the job opportunities, but because I *love* programming. I want to work for Google and Microsoft one day, especially the Google search engine, Android OS, Material UI (now Material You), and the Google Assistant areas in Google, and Windows 11, [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/ "Windows UI"), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), and a few more areas in Microsoft.  
   
 I wrote a few projects like I said above, some huge. And I'll be working on their much modern remakes soon. Projects like:
-+ [DyePy](https://pypi.org/project/dyepy/ "DyePy - A colorful package") - A color library in Python
-+ dsalgos [unpublished] - A Data Structures and Algorithms library in Python (will possibly be remade with Python 3.10 compatibility and features)
++ [DyePy](https://sfm61319.github.io/DyePy "DyePy - A colorful library") - A color library in Python
++ [dsalgos](https://sfm61319.github.io/dsalgos "DSAlgos - A Data Structures and Algorithms library") [unpublished] - A Data Structures and Algorithms library in Python (will possibly be remade with Python 3.10 compatibility and features, if not in C/C++ (Python extended in C))
 + Spidey [unpublished] - A Discord bot written in discord.js v12 (will be remade in Node.js v17+, discord.js v13+)
 + color++ [deleted for remake] - An efficient color library in C++ (to be remade in newer C++ standards with optimizations and more and better features)
 + ColorSharp [deleted for remake] - An efficient color library in C# (to be remade efficiently in the latest stable C# and .NET versions)
