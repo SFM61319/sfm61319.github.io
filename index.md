@@ -32,6 +32,7 @@ I wrote a few projects like I said above, some huge. And I'll be working on thei
 + dsalgos++ [deleted for remake] - An efficient Data Structures and Algorithms library in C++ (to be remade in newer C++ standards with optimizations and better interfaces and features, possibly with custom user structure and algorithm extensibility)
 + Material [deleted for remake] - A UWP app to play around with WinUI materials like [Acrylic](https://docs.microsoft.com/en-us/windows/apps/design/style/acrylic "Acrylic Brush") and Reveal (discontinued, main reason for proper Windows 11 compatible remake)
 + Ruqqus Windows [deleted] - A UWP app for Ruqqus (development discontinued and project deleted after discontinuation of Ruqqus due to moral issues on their site)
++ FluentUI [deleted] - A vanilla HTML, CSS and JavaScript UI library to use WinUI components on the web (deleted after encountering [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), an up-to-date ReactJS/TS alternative. Now contributing to Fluent UI React)
   
 Well, this (hopefully) explained about the programmer in me in less than 5 minutes.  
   
