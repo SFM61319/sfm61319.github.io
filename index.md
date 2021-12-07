@@ -23,19 +23,44 @@ And finally coming to the favorites in the meta part, my favorite code editor is
   
 To sum it all up, I'm an enthusiastic and a curious learner and a programmer who absolutely *loves* programming. And a little known secret, I took up CSE not because of the pay or the job opportunities, but because I *love* programming. I want to work for Google and Microsoft one day, especially the Google search engine, Android OS, Material UI (now Material You), and the Google Assistant areas in Google, and Windows 11, [WinUI](https://docs.microsoft.com/en-us/windows/apps/winui/ "Windows UI"), [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), and a few more areas in Microsoft.  
   
-I wrote a few projects like I said above, some huge. And I'll be working on their much modern remakes soon. Projects like:
+So basically, I'm proficient in:
++ C
++ **C++**
++ **Python**
++ JavaScript
++ C#
++ TypeScript
++ SQL
++ MySQL
+  
+And can make projects using:
++ ReactJS/TS
++ Express.js
++ Django
++ ASP.NET (Core)
++ SQL
+  
+And I wrote a few projects like I said above, some huge. And I'll be working on their much modern remakes soon. Projects like:
 + [DyePy](https://sfm61319.github.io/DyePy "DyePy - A colorful library") - A color library in Python
-+ [dsalgos](https://sfm61319.github.io/dsalgos "DSAlgos - A Data Structures and Algorithms library") [unpublished] - A Data Structures and Algorithms library in Python (will possibly be remade with Python 3.10 compatibility and features, if not in C/C++ (Python extended in C))
-+ Spidey [unpublished] - A Discord bot written in discord.js v12 (will be remade in Node.js v17+, discord.js v13+)
-+ color++ [deleted for remake] - An efficient color library in C++ (to be remade in newer C++ standards with optimizations and more and better features)
-+ ColorSharp [deleted for remake] - An efficient color library in C# (to be remade efficiently in the latest stable C# and .NET versions)
-+ dsalgos++ [deleted for remake] - An efficient Data Structures and Algorithms library in C++ (to be remade in newer C++ standards with optimizations and better interfaces and features, possibly with custom user structure and algorithm extensibility)
-+ Material [deleted for remake] - A UWP app to play around with WinUI materials like [Acrylic](https://docs.microsoft.com/en-us/windows/apps/design/style/acrylic "Acrylic Brush") and Reveal (discontinued, main reason for proper Windows 11 compatible remake)
-+ Ruqqus Windows [deleted] - A UWP app for Ruqqus (development discontinued and project deleted after discontinuation of Ruqqus due to moral issues on their site)
-+ FluentUI [deleted] - A vanilla HTML, CSS and JavaScript UI library to use WinUI components on the web (deleted after encountering [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), an up-to-date ReactJS/TS alternative. Now contributing to Fluent UI React)
++ [dsalgos](https://sfm61319.github.io/dsalgos "DSAlgos - A Data Structures and Algorithms library") [*unpublished*] - A Data Structures and Algorithms library in Python (will possibly be remade with Python 3.10 compatibility and features, if not in C/C++ (Python extended in C))
++ Spidey [*unpublished*] - A Discord bot written in discord.js v12 (will be remade in Node.js v17+, discord.js v13+)
++ color++ [*deleted for remake*] - An efficient color library in C++ (to be remade in newer C++ standards with optimizations and more and better features)
++ ColorSharp [*deleted for remake*] - An efficient color library in C# (to be remade efficiently in the latest stable C# and .NET versions)
++ dsalgos++ [*deleted for remake*] - An efficient Data Structures and Algorithms library in C++ (to be remade in newer C++ standards with optimizations and better interfaces and features, possibly with custom user structure and algorithm extensibility)
++ Material [*deleted for remake*] - A UWP app to play around with WinUI materials like [Acrylic](https://docs.microsoft.com/en-us/windows/apps/design/style/acrylic "Acrylic Brush") and Reveal (discontinued, main reason for proper Windows 11 compatible remake)
++ Ruqqus Windows [*deleted*] - A UWP app for Ruqqus (development discontinued and project deleted after discontinuation of Ruqqus due to moral issues on their site)
++ FluentUI [*deleted*] - A vanilla HTML, CSS and JavaScript UI library to use WinUI components on the web (deleted after encountering [Fluent UI React](https://developer.microsoft.com/en-us/fluentui#/get-started/web#fluent-ui-react "Fluent UI React"), an up-to-date ReactJS/TS alternative. Now contributing to Fluent UI React)
   
-Well, this (hopefully) explained about the programmer in me in less than 5 minutes.  
+Well, this (hopefully) explained about the programmer in me in a little over 5 minutes.  
   
-Thanks for reading!  
+```cpp
+#include <iostream>
+
+int main()
+{
+    std::cout << "Thanks for reading!\n";
+    return EXIT_SUCCESS;
+}
+```
   
 Oh by the way, some of my repositories have their own GitHub pages (under this domain), be sure to check them out!
